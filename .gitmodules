@@ -1,3 +1,6 @@
 [submodule "TP-1-QT-init"]
 	path = TP-1-QT-init
 	url = https://github.com/Master-IFRI/TP-1-QT-init.git
+[submodule "TP-DATABASE"]
+	path = TP-DATABASE
+	url = https://github.com/Master-IFRI/TP-DATABASE.git
